@@ -8,6 +8,6 @@ C++ Note!
 
 puts()
 ------
-Declartaion:
-
-'''int puts(const char* str);'''
+>Declartaion:
+>
+>```int puts(const char* str);```
