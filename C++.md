@@ -13,7 +13,7 @@ puts()
 >
 >Function:
 >C / C ++中的puts()函數用於將一行或字串寫入output（ ）流stdout。 它用換行符列印傳遞的字串，並返回一個整數值。
-
+>
 >Example:
 >```C++
 >#include<stdio.h>
@@ -27,3 +27,6 @@ puts()
 >    return 0;
 >}
 >```
+>
+>Output:
+>```C and C++```
